@@ -16,7 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## test device
-windows desktop x64
-web - Chrome
-web - Edge
-Android Emulator (API31)
+windows desktop x64</br>
+web - Chrome</br>
+web - Edge</br>
+Android Emulator (API31)</br>
