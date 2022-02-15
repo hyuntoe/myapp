@@ -20,3 +20,6 @@ windows desktop x64</br>
 web - Chrome</br>
 web - Edge</br>
 Android Emulator (API31)</br>
+
+## TODO
+[TODO.md](https://github.com/hyuntoe/myapp/TODO.md)
