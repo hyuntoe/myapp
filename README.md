@@ -22,4 +22,4 @@ web - Edge</br>
 Android Emulator (API31)</br>
 
 ## TODO
-[TODO.md](https://github.com/hyuntoe/myapp/TODO.md)
+[TODO.md](./TODO.md)
