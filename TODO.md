@@ -1,19 +1,20 @@
-# Example of TODO.md
+# Figma Link ( view only )
 
-This is an example of TODO.md
-
-View the raw content of this file to understand the format.
+[Design(?)](https://www.figma.com/file/R1lf28IdhazFZgevZzp3fS/flutter-myapp?node-id=5%3A2)
 
 ### Todo
 
-- [ ] Work on the website ~3d #feat @john 2020-03-20  
-- [ ] Fix the homepage ~1d #bug @jane  
-  - [ ] Sub-task or description  
+- [x] Dev env setup - 2022-02-15  
+- [ ] Design first app  
+  - [ ] for Windows
+  - [ ] for Android Tablet ( Galaxy S7SE )
+  - [ ] for Web  
 
-### In Progress
+### out of my ability
 
-- [ ] Work on Github Repo [JIRA-345]  
+- [ ] images, layout, etc.  
 
-### Done ✓
+### Do Not Forget ✓
 
-- [x] Create my first TODO.md  
+- just for fun
+- learning flutter2 Desktop app develop
