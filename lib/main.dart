@@ -18,16 +18,26 @@ class MyApp extends StatelessWidget {
       // Icon(Icons.{name}) : print icon, icon name search : flutter api document https://api.flutter.dev/flutter/material/Icons-class.html
       // Image.asset('PATH') : img must be in 'assets' folder and img's path must be registered to pubspec.yaml(flutter: assets: - assets/)
       // Container() : alternative is SizedBox(), units of width/height is LP ( 1.2cm approx.)
-      appBar: AppBar(),
-      body: Row(
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-          Icon(Icons.star),
-          Text('Star'),
-          Image.asset('assets/DSC03730.JPG')
-        ],
+      appBar: AppBar(
+        title: Text('앱임'),
       ),
-      bottomNavigationBar: BottomAppBar(),
+      body: Row(children: [
+        Text('안녕'),
+      ]),
+      bottomNavigationBar: BottomNavigationBar(items: [
+        BottomNavigationBarItem(
+          label: '',
+          icon: (Icon(Icons.phone)),
+        ),
+        BottomNavigationBarItem(
+          label: '',
+          icon: (Icon(Icons.message)),
+        ),
+        BottomNavigationBarItem(
+          label: '',
+          icon: (Icon(Icons.contact_page)),
+        ),
+      ]),
     ));
   }
 }
